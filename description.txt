@@ -1,0 +1,791 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/356065656
+E-Tourism: A Study of Tourist Satisfaction
+Article · October 2021
+CITATIONS
+4
+READS
+2,001
+2 authors:
+Some of the authors of this publication are also working on these related projects:
+Role and Impacts of Occupational Practices in Accommodation Operations View project
+Akshay Nain
+Amity University
+12 PUBLICATIONS   26 CITATIONS   
+SEE PROFILE
+Abhimanyu Awasthi
+Amity University
+25 PUBLICATIONS   30 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Akshay Nain on 09 November 2021.
+The user has requested enhancement of the downloaded file.
+International Journal of Trend in Scientific Research and Development (IJTSRD)
+Volume 5 Issue 6, September-October 2021 Available Online: www.ijtsrd.com e-ISSN: 2456 – 6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1745
+E-Tourism: A Study of Tourist Satisfaction
+Mr. Akshay Nain, Mr. Abhimanyu Awasthi
+Amity School of Hospitality, Amity University Haryana, Panchgaon, Manesar, Gurugram, Haryana, India
+ABSTRACT
+Internet and computers technology has an inevitable impact on
+tourism industry. Hence, understanding of what creates a satisfying
+tourist experience becomes crucial for e-tourism service
+environment. This research paper investigates the satisfaction level of
+tourists in using e-tourism services. This study is based on primary
+data sources collected by using self-constructed questionnaire by
+adopting convenient sampling technique from the tourists who
+purchase tourism products/service from electronic means i.e.
+internet/website. The data was collected through online questionnaire
+from respondents by adopting convenient sampling technique. The
+suitable statistical tools such as frequency distribution, percentage,
+mean and rank methods were used to analyze the data. The result of
+the study present through figures & tables to make it more
+meaningful. The findings of the study revealed that the factors
+namely convenience, merchandising and serviceability satisfying
+tourists’ requirements whereas other does not do so. The study
+concluded the necessity of continuous improvement of factors to
+increase customer loyalty in tourism sector.
+KEYWORDS: Internet, computer technology, tourism, e-booking,
+satisfaction, repurchases
+How to cite this paper: Mr. Akshay
+Nain | Mr. Abhimanyu Awasthi "ETourism: A Study of Tourist
+Satisfaction" Published in International
+Journal of Trend in
+Scientific Research
+and Development
+(ijtsrd), ISSN: 2456-
+6470, Volume-5 |
+Issue-6, October
+2021, pp.1745-
+1753, URL:
+www.ijtsrd.com/papers/ijtsrd47697.pdf
+Copyright © 2021 by author (s) and
+International Journal of Trend in
+Scientific Research and Development
+Journal. This is an
+Open Access article
+distributed under the
+terms of the Creative Commons
+Attribution License (CC BY 4.0)
+(http://creativecommons.org/licenses/by/4.0)
+INTRODUCTION
+Information & communication technology is widely
+used in business related activities (Avramovic, 2010)
+especially in service sector like tourism. ICT
+represent one of the most effective tools for tourism
+promotion, generate more revenue for the local
+economy, and remain competitive by promoting new
+and complementary tourism offers online (Bethapudi,
+2013; UNCTAD, 2005). Hence, the integration of
+ICT in the tourism industry is essential for success of
+tourism enterprise. ICT facilitates an individual to
+access the tourism products information from
+anywhere any time in a single click (Bethapudi,
+2013).There are three stages in tourism; the first one
+is when the people who are likely to travel start
+searching for accommodation, air/rail tickets and
+other tourist services while planning their trip.
+This stage is called pre-trip stage. The next stage
+starts when tourists commence their journey and
+make it to their first destination or wrap up their
+journey. The mentioned stage is called in-trip stage.
+The third and final stage follows the previous stage
+and consists of the services which tourist service
+providers offer their customers after their trip
+(Massomeh, 2006).
+For guest travelling to a certain destination get help of
+ICT to help them in gathering details about it in a way
+that it becomes easier and more clear to choose
+among available products & services. Same creates a
+personalized travel plan, for instance as a proactive
+proposal based on tourist profile and preferences.
+During travel phase electronic guide system that
+provides travelers with road direction signs and
+electronic information notes should be released to
+enhance travel experience. After a travel tour & travel
+phase it is so necessary to gather travel experience of
+guests with the help of ICT tools providing platform
+to the guests for sharing their experience. Other
+guests use this feedback as a basis for decision
+making. The impact of ICT in form of e-tourism is
+such that it plays a vital role in keeping travel and
+tourism sector of that particular area competitive and
+abreast with modern innovative technologies.
+Tourism is acknowledged to be very information
+intensive. Hence it is of utmost importance to practice
+e-tourism practices which eventually help travelers
+and guests choose their required services& products
+based on the available information and feedback
+online.
+IJTSRD47697
+International Journal of Trend in Scientific Research and Development @ www.ijtsrd.com eISSN: 2456-6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1746
+Since, ICTs have been applied in tourism since as
+early adoption of Computer Reservation System
+(CRS) in airlines in 1950s and in the transformation
+to Global Distribution Systems (GDSs) in the 1980s,
+Destination Management Organizations (DMO) and
+Hotel property management systems (PMSs) and
+hotel CRS systems appeared shortly afterwards,
+bringing switch companies into the market as well in
+order to improve interconnectivity and
+interoperability. However, it is the development of
+the Internet that brought the revolutionary changes to
+the structure of the industry (Xiaoqiu et al., 2003;
+Gupta, 2012).
+The internet revolutionizes flexibility in both
+consumer choice and service delivery processes.
+Customers have become much more demanding and
+perceptive for high quality products and value for
+their money. This also includes value for time,online
+information and ease of gathering their required
+information. This demands travel agents, tour
+operators, tourist handling offices, airlines, hotels and
+car rental companies etc to be developed suiting the
+need and demand of travelers. This also helps travel
+employees and managers to handle guests and
+travelers queries and service them more efficiently
+giving them ultimate quality service and world class
+experience. Deep root analysis of problems and
+challenges is necessary for the managers to finding
+out the causes and hurdles marring the travelers &
+guest experience so that an organization stays in
+demand and profitable. So, there is a quick need for
+finding a way to assess and increase tourist
+satisfaction while they are searching and purchasing
+on line.
+The tourism industry in India has a high potentiality
+to grow and equipped with the number of tourist
+destinations to attract domestic and international
+tourists.
+So, it is obvious that e-tourism is playing an
+important role in the tourism industry today. Several
+tourism companies have taken to the digital platform
+to display information, facilitate bookings and allow
+customers to reserve their preferences online. Lots of
+people use tourist websites as information channel or
+for purchasing tourism products instead of traditional
+travel agencies. Owing to websites being the sole
+channels that connect tourism companies with
+tourists, it is essential to design and project them in a
+sense that pleases customers (Massomeh, 2006). As a
+result it is necessary to investigate which factors are
+important for tourist satisfaction while they are
+implementing the first step of their trip online.
+LITERATURE REVIEW
+It is widely recognized that information &
+communication technologies are rapidly expanding
+and have affected the way businesses are performed
+and the way organizations compete (Porter, 2001)
+especially in business like tourism which is closely
+been connected to the progress of information &
+communication technologies (ICTs) almost three
+decades in the form of Computer Reservation
+Systems (CRSs), Global Distribution Systems
+(GDSs) and the Internet have transformed operational
+and strategic practices dramatically in tourism
+(Buhalis and Law, 2008). Therefore, it is of
+paramount importance to offer tourism product search
+and booking online.
+Since, several tourism practitioners increased their
+efforts to develop the online booking of tourism
+products and services such as airline or train service,
+hotel rooms, vacation packages, car rentals and so on.
+The implementation of e-tourism created expectations
+among tourists in terms of the quick response to
+enquiries, more detailed and tailored information on
+tourism destinations, possibility of booking travel,
+accommodation and restaurants online, able to check
+out competition easily at the click of a button,
+importance of destination management and marketing
+of tourism products and services, tourism marketing
+(Scottish Parliament ,2002). These expectations are
+essential for measuring tourist satisfaction.
+Satisfaction with these expectations are seen as the
+basis to which the customer relates for their
+requirements. In time, expectations rise, so, in order
+to maintain the level of satisfaction continuous
+improvement is needed (Flavian et al., 2006).When
+customers get what they had anticipated, a great
+amount of satisfaction is achieved which plays a
+major role in impacting their outlook while shopping
+online, decision making, and purchasing (Wu & Ho
+1999).However, if perceived performance falls below
+initial expectation, then the tourist may be dissatisfied
+(Masoomeh, 2006). For the travel sector, it is
+inevitable choice to provide online booking for
+improving service efficiency, enhancing service
+quality and gaining competitive advantages (Pen &
+Chen, 2013) and more importantly enhancing esatisfaction.
+The examination of consumer satisfaction in an
+online context is not only a critical performance
+outcome, but also a primary predictor of customer
+loyalty (Masoomeh, 2006) because satisfied tourists
+are more likely to recommend the tourist destination
+to others, which is the cheapest and most effective
+form of marketing and promotion by positive word of
+mouth and development of long-term loyalty to the
+International Journal of Trend in Scientific Research and Development @ www.ijtsrd.com eISSN: 2456-6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1747
+destination. Moreover, an increment in the tourist
+numbers and overall earning as economic objectives
+will increase when the tourists feel satisfied.
+Consequently, destination managers should establish
+a higher tourist satisfaction level to create positive
+post-purchase tourist behavior (Yoon &Uysal, 2005)
+by decreasing the existing gap between expectations
+made by customers and noticeable experiences for
+around the globe.
+ICT is expected to improve the quality of services and
+enhancing the level of clients’ satisfaction as well. It
+is stated that while e-commerce is mainly related to
+the utilization of a new technological asset, it is very
+crucial to be receptive towards online environment
+which would create an upbeat relationship with
+satisfaction. Bai et al. (2008) believe that in online
+environments, there should be a significant effort to
+fulfill customers’ satisfaction because it increases
+their intentions for actual purchase of tourism
+products online. So, a good understanding of factors
+that affect online customer satisfaction is very
+important to the electronic marketing.
+Cyr (2008) has done a research on e-satisfaction in
+the hotel industry. He examined a total of three
+segments of website design which included virtual
+design, navigation and information while assessing
+relationships between faith and fulfilment with
+allegiance within the setting of multiple cultures.
+On the other hand Chang & Hsu (2013) investigated
+online customer perceived value in relation to the
+online purchase of tourism products in Thailand. The
+study revealed that online purchasing has become
+more prevalent recently due to relatively lower prices
+and convenience for customers which in turn focus on
+promoting online purchase in tourism. Similarly,
+Yang et al. (2003) identify a total of 14 dimensions
+and 42 sub-dimensions of internal service quality
+although as they report, only five are the principal
+drivers of customer satisfaction. They are
+responsiveness, credibility, ease of use, reliability and
+convenience.
+There are some very significant components for
+online consumers satisfaction which are
+confidentiality, usability, location plan and privacy,
+ease, usability, trust and trustworthiness delivery, and
+merchandising, product quality, product value and
+product customization. These factors proved to be the
+most important indicator in determining buyer
+satisfaction online. These are important as they affect
+buyers’ online behavior.
+Szymansky&Hise, (2000) in a study on online
+satisfaction reveals several antecedents of satisfaction
+such as convenience, site design, product information,
+financial security etc. Though, economic security is
+not the key predictor of e-satisfaction amidst ebuyers.
+Phuong (2010) conducted a study in order to
+determine tourists’ satisfaction on E-tourism in
+Vietnam. The study showed that the greatest
+influences on e-satisfaction are site design and
+convenience. It was also found that perception of
+superior product information and product offering do
+not have a impressive effect on online satisfaction
+level. In fact these two are tied together as the first
+most important determines of e-satisfaction.
+Alagha (2013) in a study analyzed that convenience
+factor has the greatest influence on user satisfaction
+of online services. After that specialization,
+accessibility and web- site design strongly effect on
+user satisfaction. Hence convenience and
+specialization can be introduced as the two most
+important factors of e-tourism. Website design should
+be improved in order to be faster and more userfriendly. Increasing time efficiency, possibility of
+purchase from anywhere, at any time and cost
+efficiency are some of the factors which can increase
+users’ convenience. Lack of special offers and lack of
+complete packages from websites, comparing with
+travel agencies are some of the main reasons that
+people still have tendency to produce their packages
+by agencies.
+Cho & Park (2001) in study identified that duration of
+delivery, accuracy of delivery duration, delivery
+costs, variety of accepted credit cards, variety of
+payment methods, quality of product information, site
+design, ease of use and suitable information provided
+on delivery are characteristics used to assess
+satisfaction. Furthermore, Schaupp& Belanger (2005)
+declared that since the transactions occur
+electronically and the customer can only get the
+product subsequent to placing the order, providing a
+tracking number and minimizing the delivery time is
+important. In terms of convenience, ease of shopping
+has proven to be more important in relation to the
+ability to compare prices and get information.
+Coker (2013) conducted a study by focusing on
+website navigation, website performance,
+trustworthiness of website in order to determine
+antecedents to website satisfaction, loyalty and word
+of mouth. The author further identified several
+variables for measuring website satisfaction and
+loyalty such as ease of use, ease of search,
+information quality & relevance and visual appeal etc.
+Dargah &Golrokhsari (2012) in their study aimed on
+E-tourism and customer satisfaction stated that ICT
+are rapidly expanding and have affected the business
+International Journal of Trend in Scientific Research and Development @ www.ijtsrd.com eISSN: 2456-6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1748
+and the way organizations complete. They further
+explored that time efficiency, possibility of
+purchasing anywhere & anytime, direct access to
+information and customer service are the factors
+which build convenience in e-tourism comparing with
+traditional travel agencies.
+In conclusion there are many factors that can be
+considered as basis to measure satisfaction of tourists
+in e-tourism. While ICT have its great significance in
+tourism business but despite the importance of Etourism there has been less research on its different
+aspects. In this research the gap in previous research
+will be attempted to be filled by finding the Esatisfaction in tourism industry.
+OBJECTIVES OF THE STUDY
+The present study is focused on empirically
+identifying the satisfaction level of tourists in etourism environment.
+RESEARCH METHODOLOGY
+The present study is going to investigate satisfaction
+of tourists while they are purchasing online. The
+study used primary data sources. An extensive review
+of literature were reviewed in order to find out the
+suitable factors for the study and then interviews are
+conducted with both, people who travel a lot and also
+experts. These experts are professional in tourism and
+customer online buying behavior. Next step for
+answering research question is to prepare a selfstructured questionnaire to collect primary data from
+respondents through. The respondents were those
+who electronically purchased the tourism services
+such as airline tickets, train tickets, hotels, car rentals,
+package tours etc at least once. The data were
+collected from 50 respondents through online
+questionnaire in order to receive quick feedback. The
+questionnaire starts with socio-demographic
+information. After that there were asked about
+responding to their level of satisfaction towards
+electronic tourism purchasing by adopting five point
+Liker scale ranging from highly satisfied (5) to highly
+dissatisfied (1). After collection of data it was
+tabulated and analyzed with the help of suitable
+statistical tools such as frequency distribution,
+percentage, mean and rank method and so on. The
+result of the study was presented through diagrams
+and figures in order to make it more attractive.
+RESULT OF THE STUDY
+Socio-Demographic Profile of the Respondents
+The respondents were inquired about their sociodemographic background. Out of total respondents 32
+respondents were male as compared to 18 female.
+This indicates that male respondents were more
+enthusiastic to participate in survey. In respect of age
+almost forty percent (19) respondents were between
+21-30 years followed by 31-40 years respondents
+(14), 41-60 years (11) and above 60 years (06). This
+depicted that youngsters were more interested in
+online purchasing of services or products. Out of total
+respondents 17 were postgraduate, 13 were graduate,
+and 12 were more than postgraduate whereas
+remaining 08 were studied up to senior secondary
+level. This brings it to notice that higher the
+qualification of the respondents more will be the
+chances of online purchasing. It means there is
+positive association between education level of
+respondents and their online purchasing behavior. On
+asking about occupation from the respondents
+belongs to students and serviceperson shared the
+almost same frequencies (16 & 15 respectively),
+followed by 10 businessperson and 09 belongs to
+other occupation such as shopkeepers, farmers, retired
+person etc. As far as income level of the respondents
+concerns more than forty percent (21) were in the
+income group of 2-5 lakhs followed by 17 those who
+were in the income group of 5-10 lakh and remaining
+(12) respondents were in the category of above 10
+lakhs. This result showed that low income group
+respondents were more likely to purchase online
+travel bookings as compared to high income group
+respondents. This is also due to cost effectiveness of
+online bookings.
+On asking about frequency of using internet 34 were
+responded that they used internet daily. One fifth
+respondents (10) were used internet once during a
+week, 05 were used fortnightly and very rare (01)
+respondents used interne once in a month. Out of total
+respondents 42 were oftenly used to book travel
+services through internet or websites and remaining
+08 were used rarely internet or website for the
+purpose. On asking about purpose of visit almost
+forty percent (19) respondents used to travel for
+attending business meetings & conferences followed
+by more than twenty percent respondents (11) were
+traveled for education & research and 14 were oftenly
+visited for leisure purpose as well for leisure purpose.
+The remaining respondents (06) were travelled to
+visit relatives & friends. This result supported the
+time efficiency of the online travel bookings. In
+response to type of service booked through internet
+the highest number of respondents (18) were booked
+train ticket through internet followed by 13 who were
+booked hotel or accommodation service, 12 were
+used to book complete package tour and remaining 07
+were used to book air ticket through internet or
+websites. This result depicted user friendliness of the
+online travel bookings.
+International Journal of Trend in Scientific Research and Development @ www.ijtsrd.com eISSN: 2456-6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1749
+E-Tourism Satisfaction
+The respondents were inquired about to express their satisfaction level towards five selected factors of e-tourism
+bookings.
+Table I: Satisfaction towards E-Tourism
+Factors Variables Mean
+Convenience
+Time efficiency of purchasing online travel service 3.82
+24/7 availability of online travel booking options 4.24
+Ease & friendliness in use of online travel booking 3.32
+Merchandising
+Variety of tourism services (Airline ticket, hotels, car rental, package tour etc.)
+offered on internet 3.72
+Quality & relevance of information about tourism products & services available
+on internet 2.90
+Cost efficiency of booking through tourism website & internet 3.16
+Site Design
+Visual appearance/attractiveness of website/online booking portals 3.10
+Responsiveness of tourism website/internet booking portals 3.04
+Personalize package offering according to your requirement 2.86
+Security
+Secure payment while purchasing travel services through websites or online 2.18
+Privacy of personal information 1.96
+Protection of bank account and credit cards/visa etc. details 2.64
+Serviceability
+Confirmation E mail/Sms after booking 2.18
+Feedback & suggestions service availability 3.79
+Provide useful links to other related websites or portals 3.34
+First of all in response to convenience factor the respondents were highly satisfied with 24/7 availability of
+online travel bookings with mean score of 4.24 followed by time efficiency of purchasing online travel service
+(mean=3.82) and moderately satisfied with ease & friendliness of online tourism websites by occupying mean
+score of 3.32.
+3.82
+4.24
+3.32
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+Time Efficiency 24/7 Availability Ease & Friendliness
+in Use
+Fig I: Mean Score of Convenience Factor
+As far as merchandising factor is concerned the respondents were highly satisfied responses towards variety of
+tourism service available on internet for booking with mean score of 3.72. Respondents were moderately
+satisfied by cost efficiency of booking of tourism service through internet with mean score of 3.16 whereas the
+respondents were showing neutral responses with quality & relevance of tourism production information by
+scoring mean value of 2.90.
+International Journal of Trend in Scientific Research and Development @ www.ijtsrd.com eISSN: 2456-6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1750
+3.72
+2.9
+3.16
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+Variety of Tourism
+Services/Products
+Quality & Relevance of
+Product Information
+Cost Effieciency of
+Booking through
+Internet
+Fig II: Mean Score of Merchandising Factor
+In association with Website Design satisfaction the respondents showed moderately satisfied responses towards
+visual appearance or attractiveness of online travel booking websites andresponsiveness of online travel booking
+websites or portals with mean score of 3.10 and3.04respectively. The respondents were express neutral response
+with personalized package services offered through internet or websites with mean score of 2.86.
+3.1
+3.04
+2.86
+2.7
+2.75
+2.8
+2.85
+2.9
+2.95
+3
+3.05
+3.1
+3.15
+Visual Appearance Responsiveness of
+Webiste
+Perssonalize Package
+Offering
+Fig III: Mean Score of Website Design Factor
+On security & safety factor the respondents were find it neutrally satisfied towards protection of bank accounts,
+credit cards and visa details with mean value of 2.64. The respondents were totally dissatisfied with secure
+payment options while online purchasing of travel services with mean value of 2.18 and extremely dissatisfied
+with privacy of personal information while online purchasing with mean score of 1.96.
+International Journal of Trend in Scientific Research and Development @ www.ijtsrd.com eISSN: 2456-6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1751
+2.18
+1.96
+2.64
+0
+0.5
+1
+1.5
+2
+2.5
+3
+Secure Payment
+Option
+Privacy of Personal
+Information
+Protection of Bank
+Account/ Credit
+Cards/Visa
+Fig IV: Mean Score of Security Factor
+On questioning about serviceability factor the respondents were highly satisfied with feedback & suggestion
+service available on online travel bookings or by websites by mean score of 3.79. Respondents were moderately
+satisfied towards providing useful links to other related websites or services with mean score of 3.34. The
+respondents were showing dissatisfied responses (mean=2.18) with the confirmation email or sms send after
+online purchasing of travel services.
+2.18
+3.79
+3.34
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+Confirmation
+Email/Sms
+Feedback &
+Suggestion
+Provide Useful Links
+to Other Websites
+Fig V: Mean Score of Servicability Factor
+CONCLUSION
+The present study was aimed to measure the esatisfaction based on five factors which affect
+satisfaction in on-line purchasing. The results of the
+analysis show that the factor “Convenience” has the
+greatest influence on user satisfaction of online
+services. Increasing time efficiency, possibility of
+purchase from anywhere, at any time and cost
+efficiency are some of the factors which can increase
+users’ convenience. Hence “convenience” can be
+introduced as the two most important factors of etourism. Discussions of merchandising factor in
+tourism which is wider product offering and product
+information as well its cost efficiency. Although
+product offering and cost efficiency impacted esatisfaction significantly however the product
+information, can be argued that the practical
+significance of these effects are not great. In response
+to serviceability of e-tourism it shows the satisfactory
+responses. Feedback and suggestions facility and by
+providing useful links jointly achieve the successful
+satisfaction rate whereas the e-tourism firms are
+lacking sending the emails and sms for confirming the
+booking or reservations to the clients.The influence of
+International Journal of Trend in Scientific Research and Development @ www.ijtsrd.com eISSN: 2456-6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1752
+site design on e-satisfaction is also remarkable
+through fast, friendly uncluttered sites. The
+personalization of package on websites is not
+significantly influence the e-satisfaction. Lack of
+Special offers and lack of complete packages from
+websites, comparing with travel agencies are some of
+the main reasons that people still have tendency to
+produce their packages by agencies. Website design
+should be improved in order to be faster and more
+user- friendly e-tourism.As far as security factor is
+concerned respondents were dissatisfied with it which
+indicated that while doing online purchasing
+customers were having fear for misuse of their
+personal information as well as worried about
+security of their bank accounts, visa and credit cards
+details etc. As the result showed, lack of security in
+the consumers, mind is a threat for the E-tourism
+firms; however it can be converted to an opportunity
+for E-tourism organizations to gain more online
+customers by ensuring better online payment as well
+protection of online passwords and account details
+and avoiding misuse of personal information of
+customers on internet as comparing with the
+traditional travel agencies.
+The findings of the study can be helpful for managers
+of e-tourism firms and travel agencies who plan to
+enter the e-market. It highlighted the need for
+planning strategies in field of e-tourism, particularly
+in fields such as e-ticketing, e-reservation, online
+payment, multilingual and updated information
+websites. Moreover a complete and approachable way
+of delivering knowledge to customers via online
+sources will help to increase customer trust and
+keeping the existing customer satisfied and loyal as
+customer satisfaction has a direct impact on loyalty in
+e-tourism market. Finally, there is need to develop the
+e-tourism infrastructures in order to keep up with the
+competitiveness in the future.
+REFERENCES
+[1] Adam, S. H. (2004), Determinants of esatisfaction in pre-order and post-order phases,
+Journal of Academy of Business and
+Economics.
+[2] Akama, J. S. and D. M. Kieti, (2002).
+Measuring tourist satisfaction with Kenya's
+wildlife safari: a case study of Tsavo West
+National Park. Tourism management, 24, pp.
+73-81.
+[3] Alagha, A. (2013). Requirements for improving
+Contemporary E-tourism Information systems
+in terms of customer satisfaction, Master Thesis
+Submitted to Department of Computer &
+Systems Sciences (DSV) Royal Institute of
+Technology (KTH) Stockholm, Sweden
+[4] Avramovic, M. (2010). Information
+Communication Technology In The Function of
+Improvement of Competitive Position of
+Tourist Destination, Economics and
+Organization Vol. 7, No 2, pp. 209 - 217
+[5] Bai, B., R. Law and I. Wen, (2008). The impact
+of website quality on customer satisfaction and
+purchase intentions: evidence from Chinese
+online visitors. International Journal of
+Hospitality Management. 27(3), pp. 391- 402
+[6] Bennett, M., and Radburn, M., (1991),
+Information technology in Tourism: The impact
+on theindustry and supply of holidays, in
+Sinclair, T., and Stabler, M., The tourism
+industry: An international analysis, CAB
+International, Oxford, pp. 45-67.
+[7] Bethapudi, A. (2013). The Role of Ict in
+Tourism Industry, Journal of Applied
+Economics and Business, Vol. 1, Issue 4, pp.
+67-79.
+[8] Buhalis, D. and Law, R. (2008). Progress in
+information technology and tourism
+management: 20 years on and 10 years.
+[9] Chang, C. and Hsu, Y. H. S. (2013). Assessing
+the Effect of Perceived Value, Service Quality
+and Customer Satisfaction in the Online Travel
+Industry, Business and Management Review
+Vol. 3(03) pp. 14 – 23.
+[10] Cho, N. & Park, S. (2001). Development of
+electronic commerce user-consumer
+satisfaction index (ECUSI) for Internet
+shopping, Industrial management and Data
+Systems, 101(8), pp. 400-405.
+[11] Coker, B. (2013). Antecedents to Website
+Satisfaction, Loyalty, and Word-Of-Mouth,
+Journal of Information Systems and
+Technology Management, Vol. 10, No. 2, pp.
+209-218.
+[12] Connolly, D. J., and Lee, S. (2006). Developing
+Information Technology Proficiencies and
+Fluency in Hospitality Students. Journal of
+Hospitality & Tourism Education, 18(3), pp.
+15-29.
+[13] Cyr, D. (2008). “Modelling Website Design
+across Cultures: Relationships to Trust,
+Satisfaction and E-loyalty, ” Journal of
+Management Information Systems, 24 (4), pp.
+47-72.
+[14] Dargah, D. B. and Golrokhsari, H. (2012). Etourism and Customer Satisfaction Factors,
+International Journal of Trend in Scientific Research and Development @ www.ijtsrd.com eISSN: 2456-6470
+@ IJTSRD | Unique Paper ID – IJTSRD47697 | Volume – 5 | Issue – 6 | Sep-Oct 2021 Page 1753
+International Journal of Advances in
+Management Science, 1, pp. 35-40.
+[15] Flavian, C., Guinal, M. andGurrea, R. (2006).
+The role played by perceived usability,
+satisfaction and consumer trust on website
+loyalty, Information & Management, 43, pp. 1–
+14.
+[16] Gupta, A. (2012). An Overview of Information
+Technology in Tourism Industry, International
+Journal of Applied Services Marketing
+Perspectives Vol. 1, No. 1, pp. 1-6.
+[17] Ho, C. and Wu, W. (1999). Antecedents of
+Customer Satisfaction on the Internet: An
+Empirical Study of Online Shopping,
+Proceedings of the 32nd Hawaii International
+Conference on System Sciences, 1, Retrieved
+from
+http://www.computer.org/proceedings/hicss/00
+01/00015/00015027.PDF.
+[18] Jadhav, V. S. and Mundhe, S. D. (2011).
+Information technology in Tourism,
+International Journal of Computer Science and
+Information Technologies, Vol. 2 (6), pp. 2822-
+2825.
+[19] Kim, G. W., X. Ma and D. J. Kim, (2005).
+Determinants of Chinese hotel customers' esatisfaction and purchase intention. Tourism
+Management.
+[20] Kim, W. G., & Ham, S. (2007). The Impact of
+Information Technology Implementation on
+Service Quality in the Hotel Industry.
+Information Technology in Hospitality, 4(4),
+pp. 143-151.
+[21] Massomeh, M. (2006). Electronic Satisfaction
+in Tourism Industry, Master Thesis submitted
+to Luleå University of Technology.
+[22] Phuong, D. V. (2010). Evaluating tourists‟
+satisfaction on E-tourism in Vietnam, Master
+Thesis submitted to Shu-Te University, Yan
+Chao, Kaohsiung, Taiwan, Republic of China.
+[23] Porter, M., 2001. Strategy and the Internet.
+Harvard Business Review 79, 3, pp. 63–78.
+[24] Schaupp and Bélanger (2005) A Conjoint
+Analysis of Online Consumer Satisfaction,
+Journal of Electronic Commerce Research, Vol.
+6, No. 2, pp. 95-111
+[25] Schefter, P. and Reichheld, F (2000) “ELoyalty , “ Harvard Business Review , 78 (4),
+pp. 105-114.
+[26] Scottish Parliament, Tourism e-business, Aug.
+2002.
+[27] Singh, A. J., Kim, H., and Huh, C. (2006).
+Differential Impacts of Information Technology
+Services in the Korean Hotel Industry: A Study
+of Management Perceptions. FIU Hospitality
+Review, 24(2), pp. 78-89.
+[28] SzymanskyMD, Hise T R. (2000), Esatisfaction: An initial examination, Journal of
+Retailing, 76(3), pp. 309-322.
+[29] Walden, P, and Ancker, P, (2001), Introducing
+web technology in a small peripheral
+hospitality organization, International Journal
+of Contemporary Hospitality.
+[30] Werthner, H. and Klein, S. (1999) Information
+Technology and Tourism- A challenging
+relationship, WIen, New York Springer.
+[31] Williams, P., 1993. Information technology and
+tourism: a dependent factor for future survival,
+In Ritchie, B., Hawkins, D., Go, F. and
+Flechtling, D. Editors World Travel and
+Tourism Review: Indicators, Trends and Issues,
+Vol. 3 (2nd edn.), CAB International, Oxford,
+pp: 200-205
+[32] Xiaoqiu Ma, Jennifer, D. B., and Haiyan S.
+(2003), ICTs and internet adoption in china's
+tourism industry, international journal of
+information management, 23, pp. 451-467.
+[33] Yang, X., Z. Ahmed, M. Ghingold, G. Boon, T.
+Mei and L. Hwa, (2003). Consumer preferences
+for commercial web site design: an Asia-Pasific
+perspective. Journal of Consumer Marketing,
+20: 1.
+[34] Yoon, Y., and Uysal, M. (2005). An
+examination of the effects of motivation and
+satisfaction on destination loyalty: a structural
+model. Tourism management, 26(1), pp. 45-56.
+View publication stats
